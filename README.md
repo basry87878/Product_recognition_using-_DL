@@ -8,4 +8,6 @@ filtering given training images to label product category using deep learning mo
 
 
 
-![image](https://github.com/user-attachments/assets/3a199a26-0af4-4c37-8e06-3a2b109b6f4c)
+
+![image](https://github.com/user-attachments/assets/d6bb886c-896e-4b68-875a-d2e9de78b54c)
+
